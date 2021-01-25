@@ -1,2 +1,1 @@
-# sportwebsite dome here ⬇
-https://harshalgami13.github.io/sportwebsite/
+# sportwebsite preview https://harshalgami13.github.io/sportwebsite/
